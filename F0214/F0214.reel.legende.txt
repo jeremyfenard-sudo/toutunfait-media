@@ -11,7 +11,6 @@ Sources
 
 Visuels
 – Photo NASA, reflet du Soleil sur les nuages vu de la Station spatiale · domaine public · Wikimedia Commons, recadrée
-– Frise tracée à partir des dates des sources citées
 – Photo Queery-54, Stanislav Petrov en 2016 · CC BY-SA 4.0 · Wikimedia Commons
 – Photo Brandmeister, stèle en mémoire de Stanislav Petrov · domaine public · Wikimedia Commons, recadrée
 – Photo Stephen DeLoriea · Public domain · Wikimedia Commons
@@ -24,9 +23,10 @@ Visuels
 – Photo JoannaPoe, un Titan II dans son silo, Titan Missile Museum, Arizona · CC BY-SA 4.0 · Wikimedia Commons
 – Aucune image générée.
 
+Musique : Signature A · L'horloge — Tout un fait (composée par le code, scripts/signature_sonore.py) — CC0
+
 Enregistre ce post pour ta prochaine soirée quiz.
 
 Tu le savais ? Dis-le en commentaire.
-Musique : Signature A · L'horloge — Tout un fait (composée par le code, scripts/signature_sonore.py) — CC0
 
 #toutunfait #cultureg #chronologie #histoire
