@@ -1,0 +1,23 @@
+Les îles Diomède : moins de 4 km, 20 ou 21 h d'écart
+
+Les îles Diomède sont séparées par 3,75 km de mer et par la ligne de changement de date : la Grande Diomède, russe, est à UTC+12 toute l'année, la Petite, américaine, à UTC-9 l'hiver et UTC-8 l'été, soit 21 heures d'écart pendant quatre mois et 20 le reste du temps.
+
+À préciser : 21 heures l'hiver, 20 l'été : la Russie a supprimé l'heure d'été, l'Alaska la garde. Et les deux îles sont le même jour pendant trois à quatre heures par jour.
+
+Sources
+1. OpenStreetMap, contributeurs (ODbL) — trait de côte des îles Diomède, via l'API Overpass — overpass-api.de
+2. IANA Time Zone Database (tzdb), fichiers « europe », « northamerica » et « zone1970.tab » — data.iana.org
+3. Sara Whitney, « Little Diomede : the view from the most remote community in the nation », Alaska Economic Trends, Alaska Department of Labor and Workforce Development, décembre 2018 — laborstats.alaska.gov
+
+Visuels
+– Le détroit de Béring gelé · photo Crissi, 2008 · CC BY-SA 3.0 · Wikimedia Commons, recadrée
+– Les deux Diomède vues par ASTER, 2000 · NASA/METI/AIST/Japan Space Systems · domaine public · Wikimedia Commons
+– Carte · données Natural Earth 2026
+– Le village de la Petite Diomède · photo Petty Officer Richard Brahm, U.S. Coast Guard, 2008 · domaine public · Wikimedia Commons, recadrée
+– Aucune image générée.
+
+À envoyer à quelqu'un qui dira « c'est faux ».
+
+Connu ou pas ? Réponse en commentaire.
+
+#toutunfait #cultureg #cartographie #geographie
