@@ -1,0 +1,22 @@
+Un roi d'Italie a tranché : cette île est française
+
+Le 28 janvier 1931, à Rome, Victor-Emmanuel III, arbitre choisi par le Mexique et la France en 1909, a jugé que l'atoll de Clipperton, à 1 250 km d'Acapulco, était français depuis le 17 novembre 1858.
+
+À préciser : Le roi n'a rien donné : il a jugé que la France détenait l'atoll depuis sa proclamation du 17 novembre 1858 et ne l'avait jamais abandonné.
+
+Sources
+1. Affaire de l'île de Clipperton (Mexique contre France), sentence arbitrale de S.M. Victor-Emmanuel III, Rome, 28 janvier 1931, Recueil des sentences arbitrales des Nations unies, vol. II, p. 1105-1111 — legal.un.org
+2. Calcul géodésique reproductible sur l'ellipsoïde WGS84 (pyproj Geod.inv) entre Clipperton (10,300° N ; 109,217° O) et Acapulco (16,853° N ; 99,824° O), et Papeete (17,535° S ; 149,570° O)
+
+Visuels
+– Photo Copernicus Sentinel-2 · European Space Agency · CC BY · Wikimedia Commons, recadrée
+– Peinture de Basilio Cascella, portrait de Victor-Emmanuel III, 1930 · Domaine public
+– Carte · données Natural Earth · distances géodésiques WGS84
+– Coucher de soleil et oiseaux sur Clipperton · photo Juan Carlos Salinas, NMFS, SWFSC · domaine public · Wikimedia Commons, recadrée
+– Aucune image générée.
+
+À garder pour la prochaine soirée quiz.
+
+Connu ou pas ? Réponse en commentaire.
+
+#toutunfait #cultureg #cartographie #geographie
