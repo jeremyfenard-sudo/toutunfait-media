@@ -1,0 +1,23 @@
+222 habitants, et le premier voisin à 2 400 km
+
+Tristan da Cunha comptait 222 habitants le 28 août 2026 et n'a toujours pas d'aéroport : la terre habitée la plus proche, Sainte-Hélène, est à 2 430 km, Le Cap à 2 795 km.
+
+À préciser : Sainte-Hélène est la terre habitée la plus proche, mais l'île Gough, à 416 km, abrite en permanence une station météo sud-africaine.
+
+Sources
+1. Tristan da Cunha Government and Association, page « Population », relevé du 28 août 2026 — tristandc.com
+2. UK Overseas Territories Association (UKOTA), fiche territoire « Tristan da Cunha » — ukota.org
+3. Calcul géodésique reproductible sur l'ellipsoïde WGS84 (pyproj Geod.inv) depuis Edinburgh of the Seven Seas (37,105° S ; 12,278° O)
+
+Visuels
+– Photo The Official CTBTO Photostream · CC BY 2.0 · Wikimedia Commons, recadrée
+– Photo NASA · Public domain · Wikimedia Commons, recadrée
+– Photo Brian Gratwicke · CC BY 2.0 · Wikimedia Commons, recadrée
+– Carte · données Natural Earth · distances géodésiques WGS84
+– Aucune image générée.
+
+À envoyer à quelqu'un qui dira « c'est faux ».
+
+Connu ou pas ? Réponse en commentaire.
+
+#toutunfait #cultureg #cartographie #geographie
