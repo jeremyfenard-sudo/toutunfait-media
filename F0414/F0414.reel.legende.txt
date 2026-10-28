@@ -1,0 +1,25 @@
+La moitié de l'humanité tient dans un cercle de 3 400 km de rayon, centré dans le sud-ouest de la Chine.
+
+Le 5 mai 2013, un internaute, « Valeriepieris » sur Reddit (Ken Myers), poste une carte du monde avec un cercle autour de l'Asie et une phrase : plus de gens vivent dedans que dehors. Il l'a tracé à l'œil et a fait le total pays par pays.
+
+En 2015, l'économiste Danny Quah (London School of Economics) cherche le plus petit cercle qui contient la majorité des humains, sur une grille de population de 100 km : 3 300 km de rayon, centré près de Mong Khet, en Birmanie. C'est lui que montre la carte du début. Le Japon, entier dans le cercle de 2013, en sort presque.
+
+En 2023, le chercheur Rudy Arthur (université d'Exeter) refait le calcul avec les données de 2020 : 3 386 km autour du nord du Yunnan, en Chine. Sur la grille d'un degré, 3 985 millions de personnes dedans, sur 7 969 millions.
+
+Dedans : la Chine, presque toute l'Inde, le Bangladesh, l'est du Pakistan, l'Asie du Sud-Est continentale, les deux Corées, le sud-ouest du Japon. Et Dacca, deuxième ville du monde pour l'ONU. Dehors : Tokyo, à 3 746 km du centre, et Jakarta, à 3 903 km, la plus grande ville du monde selon le classement de l'ONU de 2025.
+
+À préciser : par construction, le plus petit cercle contient la moitié des humains, pas plus. Il mord aussi sur le sud de la Sibérie (Irkoutsk, Novossibirsk). Aucune source ne refait le calcul après 2020. Les distances sont recalculées depuis le centre publié par Arthur.
+
+Sources
+1. Valeriepieris (K. Myers), r/MapPorn, Reddit, 5 mai 2013
+2. D. Quah, « The world's tightest cluster of people », LSE, 2015
+3. R. Arthur, Geographical Analysis, 2023
+4. ONU (UN DESA), World Urbanization Prospects 2025
+
+Visuels
+– Cercle de Quah, projection azimutale équivalente · cmglee et jimht · CC BY-SA 4.0
+– Circulation à Dacca, 2005 · ~Pyb · CC BY 2.0
+– Carrefour de Shibuya, Tokyo, 2025 · Syced · CC0
+La scène dessinée est une illustration générée, pas un document.
+
+#toutunfait #cultureg #geographie #cartographie
