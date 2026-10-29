@@ -1,0 +1,21 @@
+Pour savoir où blinder un avion, il fallait raisonner sur ceux qui ne rentraient pas.
+
+En 1943, à l'université Columbia, à New York, le Statistical Research Group met ses mathématiciens au service de l'effort de guerre américain. Parmi eux, Abraham Wald, né en 1902 à Cluj, aujourd'hui en Roumanie. Selon son collègue W. Allen Wallis, qui l'écrit en 1980, les militaires penchaient pour protéger les parties les plus criblées des avions revenus.
+
+Wald rédige huit mémos pour estimer, à partir des seuls survivants, la probabilité qu'un coup abatte l'avion. Il suppose que les coups se répartissent selon la surface exposée. Une zone qui porte moins d'impacts que sa taille ne le voudrait est donc une zone où les avions touchés ne sont pas rentrés.
+
+Son exemple chiffré est inventé : 400 avions partent, 359 reviennent, avec 202 impacts. Les deux moteurs font 27 % de la surface mais ne portent que 19 % des impacts. Un seul coup au moteur abat l'avion 39 fois sur 100, au fuselage 5 fois sur 100, alors que le fuselage est le plus criblé.
+
+À préciser : l'officier qui voulait blinder là où il y avait des trous, et la réplique de Wald, n'apparaissent dans aucun document. Les mémos ne disent pas aux militaires quoi faire, et rien ne documente un blindage décidé d'après eux. Le dessin de l'avion couvert de points rouges, partout en ligne, date de 2016 : le rapport de Wald n'a aucune illustration. Jamais publiés à l'extérieur, les mémos ont été réédités en 1980 par le Center for Naval Analyses, qui travaille pour la marine américaine.
+
+Sources
+1. A. Wald, A Method of Estimating Plane Vulnerability Based on Damage of Survivors, SRG, 1943 ; réédition CNA, CRC 432, 1980
+2. B. Casselman, « The Legend of Abraham Wald », AMS, 2016
+3. Wikimedia Commons, Survivorship-bias.svg et .png, notices de fichier
+
+Visuels
+– Abraham Wald, photo non datée · Konrad Jacobs, Oberwolfach Photo Collection (MFO) · CC BY-SA 2.0 de
+– Impacts hypothétiques, dessin de McGeddon (2016) vectorisé par Martin Grandjean (2021), pas un document de 1943 · CC BY-SA 4.0
+Les scènes dessinées sont des illustrations générées, pas des documents.
+
+#toutunfait #cultureg #statistiques #biaisdusurvivant
