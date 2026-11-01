@@ -1,0 +1,27 @@
+Le Groenland est quatorze fois plus petit que l'Afrique : 2,17 millions de km² contre environ 30 millions. Sur la carte de Mercator, il paraît pourtant aussi grand qu'elle.
+
+Gerardus Mercator présente sa projection en 1569, sur une carte du monde destinée aux navigateurs. Elle garde les angles : une route à cap constant y devient une ligne droite. Le prix, ce sont les surfaces : elles gonflent à mesure qu'on s'éloigne de l'équateur, deux fois à 45° de latitude, quatre fois à 60°, et les pôles sont rejetés à l'infini. Le géographe John P. Snyder, de l'USGS, en tire la comparaison classique : sur Mercator, le Groenland paraît plus grand que l'Amérique du Sud, qui est huit fois plus vaste.
+
+Calculé sur les côtes réelles, le Groenland y est agrandi environ 16 fois, l'Afrique 1,1 fois.
+
+En vrai, les États-Unis (9,8 millions de km²), la Chine (9,6) et l'Inde (3,3) réunis font 22,7 millions : les trois quarts de l'Afrique. L'Union européenne à 27 (4,2 millions) s'ajoute, et le total, 26,9 millions, reste en dessous. En 2010, Kai Krause a publié la carte qui range ces pays dans le contour africain.
+
+À préciser : l'Afrique fait 29,6 à 30,4 millions de km² selon qu'on compte ou non les eaux intérieures. Les États-Unis sont comptés avec leurs eaux côtières : la comparaison est prudente. L'agrandissement sur Mercator est un calcul de Tout un fait.
+
+Sources
+1. Nations unies, Demographic Yearbook 2015, tabl. 1
+2. Nations unies, Demographic Yearbook 2023, tabl. 1 et 3
+3. Encyclopædia Britannica, « Africa » et « Greenland »
+4. U.S. Census Bureau, State Area Measurements, 2010
+5. MOFCOM (Chine), « About China : Geography »
+6. Haut-commissariat de l'Inde à Gaborone, « Country profile »
+7. Eurostat, reg_area3, UE à 27, 2026
+8. K. Krause, « The True Size of Africa », 2010
+9. J. P. Snyder, Map Projections : A Working Manual, USGS, 1987
+
+Visuels
+– Carte du monde en projection de Mercator, images Blue Marble de la NASA · Mdf, 2008 · domaine public
+– Gerardus Mercator à 62 ans, gravure de Frans Hogenberg, 1574 · domaine public
+Les scènes dessinées sont des illustrations, pas des documents.
+
+#toutunfait #cultureg #geographie #cartographie #mercator
