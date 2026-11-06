@@ -1,0 +1,22 @@
+Non, la planète la plus proche de la Terre n'est pas Vénus.
+
+Au plus près, Vénus passe à 38 millions de kilomètres de la Terre, plus près qu'aucune autre planète. Mais la plupart du temps, les deux sont bien plus éloignées : jusqu'à 261 millions de kilomètres quand Vénus est de l'autre côté du Soleil. Mercure, elle, ne s'éloigne jamais beaucoup du Soleil.
+
+Moyennée dans le temps, la distance de Vénus à la Terre est de 1,14 unité astronomique, environ 170 millions de kilomètres ; celle de Mercure, 1,04 UA, environ 155 millions. En moyenne, la planète la plus proche de la Terre est donc Mercure, et c'est aussi la voisine la plus proche de chacune des sept autres planètes, jusqu'à Neptune.
+
+À préciser
+– Le calcul de Physics Today traite les orbites comme circulaires et dans un même plan ; une simulation des huit planètes sur 10 000 ans s'en écarte de moins de 1 %.
+– Les distances de la vidéo sont calculées sur les orbites moyennes, à partir du 24 octobre 2026. Au plus près, la NASA donne 38,2 millions de kilomètres sur les orbites réelles.
+– La NASA écrit elle-même que Vénus est « our closest planetary neighbor », puis précise plus bas que Mercure passe plus de temps près de la Terre.
+
+Sources
+T. Stockman, G. Monroe et S. Cordner, « Venus is not Earth's closest neighbor », Physics Today, 12 mars 2019.
+NASA, « Venus Facts », science.nasa.gov.
+NASA NSSDC, fiches de Mercure, de Vénus et de Mars (D. R. Williams).
+
+Images
+Ciel du soir : image générée.
+Mercure devant le Soleil, 11 novembre 2019 : photo NASA, Joel Kowsky, domaine public, via Wikimedia Commons.
+Orbites, distances et moyennes : calculées à partir des éléments orbitaux moyens (J2000).
+
+#toutunfait #sciences #astronomie #mercure #venus #cultureg
