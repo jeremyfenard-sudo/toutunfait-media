@@ -1,0 +1,21 @@
+Pourquoi les tranchées de 14-18 n'étaient-elles pas droites ?
+
+Une tranchée droite est un couloir : un seul tireur posté à une extrémité la balaie d'un bout à l'autre, et un obus qui tombe dedans projette ses éclats tout du long. Les manuels britanniques de 1916 la coupent donc en compartiments, tous les 5,5 à 9 mètres, par des traverses : des buttes de terre laissées en place, épaisses de 2,7 à 3,7 mètres, que la tranchée contourne. Le tir s'arrête au premier coude, les éclats restent dans un seul compartiment. Vue d'avion, la ligne de tir dessine des créneaux : sur la photo prise le 10 mai 1916 au nord de Thiepval, dans la Somme, chaque traverse se voit.
+
+À préciser
+– Pas de modèle unique : « There is no sealed pattern of fire trench », disent les Notes de 1916 ; les cotes sont des valeurs « normales », pas une norme, et elles changent entre 1914 et 1916.
+– La tranchée de tir est crénelée ; le zigzag est surtout celui des boyaux qui mènent à l'arrière. Le tracé irrégulier sert aussi au tir de flanc des mitrailleuses.
+– La photo montre des tranchées allemandes, photographiées par les Britanniques. Aucun manuel français n'a été lu : aucune cote française n'est écrite.
+– À l'écran, la tranchée est une reconstitution en 3D d'après ces cotes, aux coins arrondis comme une tranchée creusée à la pelle ; le tireur, l'obus et les soldats sont schématiques.
+
+Sources
+General Staff, Notes for Infantry Officers on Trench Warfare, novembre 1916 (War Department Document No. 582, 1917).
+E. J. Solano (dir.), Field Entrenchments: Spadework for Riflemen, John Murray, 1916.
+Sven Hedin, With the German Armies in the West, John Lane, 1915.
+Imperial War Museums, HU 91107 et Q 27637.
+
+Images
+Ouverture et couverture : image générée, reconstitution.
+Photo aérienne : No. 4 Squadron RFC, 10 mai 1916, IWM HU 91107, domaine public. Tranchée en 3D calculée (Blender), reconstitution.
+
+#toutunfait #histoire #premiereguerremondiale #tranchees #grandeguerre #somme #cultureg
