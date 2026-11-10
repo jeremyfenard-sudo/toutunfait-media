@@ -1,0 +1,25 @@
+Enigma avait 17 576 positions, mais une faille.
+
+Dans l'Enigma I de l'armée allemande, chaque frappe fait d'abord avancer le rotor de droite d'un cran. Le courant traverse ensuite trois rotors câblés en désordre, touche un réflecteur et repart par un autre chemin. Au même réglage, la machine déchiffre donc ce qu'elle a chiffré, et aucune lettre ne peut sortir en elle-même.
+
+À Bletchley Park, cette impossibilité servait à placer les mots probables : toute position où une lettre du mot tombait sur la même lettre du message chiffré était écartée.
+
+À préciser
+– La vidéo simplifie : sans tableau de connexions (10 paires de lettres échangées en temps de guerre), qui ne change ni la réciprocité ni l'impossibilité.
+– Une même lettre tapée deux fois peut ressortir identique, environ une fois sur 25 : c'est la substitution qui change à chaque frappe.
+– Les lettres de la vidéo sont calculées sur les câblages réels des rotors I, II, III et du réflecteur B, l'exemple du mot probable aussi.
+– Cette propriété aidait à placer un mot probable ; elle n'a pas cassé Enigma à elle seule.
+
+Sources
+David Kenyon (Bletchley Park Trust) et Frode Weierud, « Enigma G: The Counter Enigma », Cryptologia 44(5), p. 385-420, 2019.
+A. P. Mahon, « The History of Hut Eight 1939-1945 », 1945, The National Archives (Kew), HW 25/2, transcription A. Ellsbury.
+National Security Agency (A. Hammarborg), « Catalog of Enigma Cipher Machine Wirings », Control No. 182-4, juin 1954, chap. IV B « Steckered Enigmas », p. 175-176 (déclassifié, FOIA 44559, publié par F. Weierud).
+Tony Sale (premier conservateur du musée de Bletchley Park), « Technical Specification of the Enigma », Codes and Ciphers.
+Crypto Museum (P. Reuvers et M. Simons), « Enigma wiring » (wiring.htm) et « How Enigma works » (working.htm).
+
+Images
+Ouverture : image générée.
+Enigma I n° A16672 : photo ArnoldReinhold, CC BY-SA 4.0, via Wikimedia Commons.
+Machine, rotors et câblages : dessinés et calculés d'après les sources.
+
+#toutunfait #sciences #enigma #cryptographie #histoire #cultureg
