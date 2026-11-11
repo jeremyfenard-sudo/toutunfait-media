@@ -1,0 +1,23 @@
+Le go a plus de positions que l'univers d'atomes
+
+Le 20 janvier 2016, John Tromp a achevé le comptage des positions légales d'un goban de 19 × 19 : 2,08 × 10^170, un nombre de 171 chiffres, quand l'univers observable ne contient que de l'ordre de 10^80 atomes.
+
+À préciser : Les 171 chiffres sont exacts, pas estimés. Le nombre d'atomes, lui, est un ordre de grandeur tiré des paramètres cosmologiques de la mission Planck.
+
+Sources
+1. John Tromp, « Counting Legal Positions in Go », page de résultats (résultat daté du 20 janvier 2016) — tromp.github.io
+2. John Tromp et Gunnar Farnebäck, « Combinatorics of Go », 31 janvier 2016 — tromp.github.io
+3. Planck Collaboration, « Planck 2018 results. VI. Cosmological parameters », Astronomy & Astrophysics, vol. 641, A6, septembre 2020 — doi.org
+
+Visuels
+– Estampe de Torii Kiyonaga, 1781, Library of Congress · domaine public · Wikimedia Commons
+– Pierres de go · photo Dietmar Rabich, 2021 · CC BY-SA 4.0 · Wikimedia Commons, recadrée
+– Pierres sur le goban · photo Dietmar Rabich, 2021 · CC BY-SA 4.0 · Wikimedia Commons, recadrée
+– Comparaison tracée à partir des chiffres des sources citées
+– Aucune image générée.
+
+À garder pour la prochaine soirée quiz.
+
+Connu ou pas ? Réponse en commentaire.
+
+#toutunfait #cultureg #chiffres #sport #jeux
