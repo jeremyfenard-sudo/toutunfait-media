@@ -1,0 +1,26 @@
+Comment fonctionne vraiment une lentille de phare ?
+
+Seule la surface du verre dévie la lumière ; l'épaisseur alourdit et absorbe. Augustin Fresnel découpe donc la lentille en anneaux, calcule la courbure de chacun et retire « toute la partie inutile de leur épaisseur » : la lentille devient mince et garde son foyer. En juillet 1823, à Cordouan, huit de ces lentilles tournent autour d'une seule lampe ; les pilotes de Royan décrivent une lumière double. Plus tard, Fresnel ajoute des prismes qui renvoient la lumière perdue en haut et en bas.
+
+À préciser
+– Fresnel n'a pas inventé l'idée des échelons : Buffon les voulait taillés d'un seul bloc, Condorcet en pièces séparées. Fresnel calcule chaque anneau et en équipe le premier un phare.
+– En 1823, Cordouan n'a pas encore de prismes : en haut et en bas, de petites lentilles et des miroirs. Les prismes viennent après 1826.
+– La lentille de 1823 a été déposée en 1854 : l'optique qu'on voit à Cordouan aujourd'hui n'est pas celle-là.
+– La coupe de la vidéo est calculée (n = 1,5) et posée sur une planche de Stevenson (1848), qui montre un appareil fixe, pas celui de Cordouan.
+– Le plan de 1911 montre aussi l'étage du haut (petites lentilles, miroirs), que la vidéo ne dessine pas.
+
+Sources
+Augustin Fresnel, « Mémoire sur un nouveau système d'éclairage des phares », Académie des sciences, 29 juillet 1822 (Œuvres complètes, 1870).
+Observations des pilotes sur le nouveau feu de Cordouan, bureau des classes de Royan, 27 août 1823.
+Alan Stevenson, Account of the Skerryvore Lighthouse, Édimbourg, 1848.
+Ministère de la Culture, communiqué du 24 juillet 2021 (UNESCO) ; DIRM Sud-Atlantique, « Les phares ».
+
+Images
+Ouverture : image générée.
+Lanterne de Cordouan, 1822 : Archives nationales, CC0, via Wikimedia Commons.
+Stevenson, Account of the Skerryvore Lighthouse, 1848, planche XVIII : domaine public, via archive.org.
+Appareil de Fresnel à Cordouan, vu de dessus : Encyclopædia Britannica, 1911, « Lighthouse », fig. 34, domaine public.
+Le phare et son optique actuelle : photos Selvejp, CC BY-SA 4.0, via Wikimedia Commons.
+Carte : Natural Earth, domaine public.
+
+#toutunfait #sciences #phare #fresnel #cordouan #cultureg
