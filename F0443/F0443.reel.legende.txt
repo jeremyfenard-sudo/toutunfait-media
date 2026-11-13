@@ -1,0 +1,27 @@
+Pliée 42 fois, une feuille dépasserait la Lune.
+
+Une feuille de papier de bureau mesure environ 0,1 mm d'épaisseur. Chaque pli en deux double l'épaisseur : 2 couches, 4, 8. Au 22e pli, la pile ferait 419 m, plus que la tour Eiffel. Au 27e, 13,4 km, plus que l'Everest. Au 32e, 429 km, l'altitude de la Station spatiale. Au 41e, 219 902 km, plus de la moitié du chemin jusqu'à la Lune. Au 42e, 439 805 km : elle dépasse la Lune, à 384 400 km en moyenne.
+
+En vrai, le record homologué est de 12 plis, réussi en janvier 2002 par Britney Gallivan, lycéenne de Pomona (Californie), avec 1 219 m de papier. Elle a établi la formule de la longueur minimale : chaque pli avale de la longueur dans sa courbe, et la perte grandit à chaque fois. Pour 42 plis d'une feuille de 0,1 mm, il faudrait une bande d'environ 107 000 années-lumière.
+
+À préciser
+– C'est un calcul pour un pliage idéal, sans perte ni compression. Le 42 tient pour toute feuille d'au moins 0,087 mm (0,093 mm pour passer la Lune au plus loin) ; une feuille de 0,08 mm en demanderait 43.
+– Au 32e pli, la pile atteint l'altitude de l'ISS (370 à 460 km) : elle ne la dépasse pas à coup sûr.
+– 13 plis ont été réussis en 2011 avec du papier toilette scotché, un record non homologué.
+– Les 107 000 années-lumière sont un calcul fait à partir de la formule de Gallivan.
+– À l'écran : l'épaisseur de la feuille est grossie, la largeur de la pile n'est pas à l'échelle, la Terre et la Lune sont grossies pour se voir.
+
+Sources
+NASA, NSSDCA, « Moon Fact Sheet ».
+I. Peterson, « Folding Paper in Half, Twelve Times », Science News, 2004.
+Historical Society of Pomona Valley, « How to Fold Paper in Half Twelve Times ».
+OEIS, suite A076024, déposée par Britney C. Gallivan le 30 septembre 2002.
+Guinness World Records ; NASA, page de l'ISS ; fiches techniques Navigator et International Paper.
+
+Images
+Ouverture et couverture, tour Eiffel, Himalaya : images générées.
+La Terre vue d'Apollo 17 et le haut de l'atmosphère : NASA, domaine public.
+La pleine Lune : Gregory H. Revera, CC BY-SA 3.0.
+Fiche OEIS A076024 : CC BY-SA 4.0.
+
+#toutunfait #sciences #mathematiques #exponentielle #lune #cultureg
