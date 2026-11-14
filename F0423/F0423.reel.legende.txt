@@ -1,0 +1,19 @@
+Le temps ne passe pas à la même vitesse partout.
+
+Plus on est près d'une masse, plus le temps s'écoule lentement. En 2024, la NASA a simulé le vol d'une caméra autour d'un trou noir de 4,3 millions de masses solaires, comme celui du centre de notre galaxie. Au bout d'un aller-retour d'environ six heures, son horloge marque 6 h 24 ; celle d'un observateur resté loin, 7 h 00 : 36 minutes d'écart. Sur Terre, l'effet est minuscule mais il compte. Les satellites GPS tournent à environ 20 000 km d'altitude, et leurs horloges prennent de l'avance chaque jour. Sans correction, le GPS se tromperait de plus de 11 km par jour : leurs horloges partent donc réglées un peu trop lentes.
+
+À préciser
+– Trou noir : simulation (J. Schnittman, NASA Goddard, 2024), où gravité et vitesse se mêlent ; cadrans réglés sur les compteurs de la simulation, trajet dessiné. Sur place, l'astronaute ne sent rien : sa propre horloge bat normalement.
+– GPS : la gravité fait avancer les horloges d'environ 45 microsecondes par jour, leur vitesse les retarde d'environ 7 ; reste 38. Les 11 km cumulent les deux. À l'écran, l'avance et la dérive sont dessinées, pas mesurées.
+
+Sources
+NASA Goddard, SVS 14576, « NASA Black Hole Visualization Takes Viewers Beyond the Brink », 2024.
+Neil Ashby, « Relativity and the Global Positioning System », Physics Today 55, 2002.
+Neil Ashby, « Relativity in the Global Positioning System », Living Reviews in Relativity, 2003.
+OpenStax, University Physics vol. 3, §5.3.
+
+Images
+Couverture : image générée. Vue du vol : NASA Goddard / J. Schnittman et B. Powell, domaine public.
+Carte : © contributeurs OpenStreetMap (ODbL). Globe : Natural Earth, domaine public. Animations calculées.
+
+#toutunfait #sciences #trounoir #relativite #einstein #gps #cultureg
