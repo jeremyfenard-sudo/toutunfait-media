@@ -1,0 +1,22 @@
+La Méditerranée s'est déjà en partie vidée.
+
+Elle perd plus d'eau par évaporation que n'en apportent les fleuves et la pluie : l'Atlantique comble la différence en entrant par Gibraltar. Il y a environ six millions d'années, ce passage s'est presque fermé. Il manquait alors 1 000 à 3 300 km³ d'eau par an selon les bilans : en quelques milliers d'années, la mer est descendue de centaines de mètres, peut-être plus de 2 000 selon les études ; au fond restaient des lacs de saumure. C'est la crise de salinité messinienne. Elle a laissé plus d'un kilomètre de sel, toujours enfoui sous le fond de la mer, que les profils sismiques font voir. Il y a 5,33 millions d'années, l'Atlantique est revenu par une crue géante.
+
+À préciser
+– La mer s'est en partie vidée, pas asséchée : l'ampleur de la baisse reste débattue (de −600 à −2 000 m).
+– « Quelques milliers d'années » est un ordre de grandeur, au climat actuel : en baissant, la surface rétrécit et le niveau se stabilise avant le fond.
+– Le kilomètre de sel suppose des retours répétés de l'Atlantique : une mer pleine qui s'évapore n'en laisse qu'environ 25 mètres.
+– À l'écran : relief réel, hauteurs exagérées dix fois, teintes de carte ; la balance est schématique, le niveau et la coupe aussi.
+
+Sources
+W. Krijgsman et al., Nature Reviews Earth & Environment, 2024.
+A. Micallef et al., Scientific Reports 8, 2018.
+K. J. Hsü, M. B. Cita, W. B. F. Ryan, Initial Reports of the DSDP 13, 1973.
+D. García-García et al., Climate Dynamics, 2022.
+D. Garcia-Castellanos et al., Nature 462, 2009.
+
+Images
+Ouverture et couverture : image générée. Relief : ETOPO1, NOAA, domaine public ; maquette 3D calculée (Blender).
+Coupe sismique : Micallef et al. 2018, fig. 1a, CC BY 4.0.
+
+#toutunfait #geographie #mediterranee #gibraltar #geologie #cultureg
